@@ -1,4 +1,4 @@
-# ENGSE203 LAB 01 — <developer-environment-git-github>
+# ENGSE203 LAB 01 — developer-environment-git-github
 
 ## ผู้จัดทำ
 
